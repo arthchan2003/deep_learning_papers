@@ -5,7 +5,15 @@ This is mostly my reading dump. They are too deep to post at
 interesting enough for me to take some notes.  Putting all notes
 at git is a habit I learned from [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes). 
 
-
-
 #### 2017-03
+Highlight:
 - Simultaneous Detection and Segmentation [[arXiv](https://biomedicalcomputervision.uniandes.edu.co/images/webpage/publications/hagm_eccv2014.pdf)]
+- Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)]
+
+Interesting:
+- Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis [[arXiv](https://arxiv.org/abs/1703.03702)]
+- On the Behavior of Convolutional Nets for Feature Extraction [[arXiv](https://arxiv.org/abs/1703.01127)]
+- Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1611.01929)]
+- Accelerated Gradient Temporal Difference Learning [[arXiv](https://arxiv.org/abs/1611.09328)]]
+- Fast LIDAR-based Road Detection Using Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1703.03613)]
+
