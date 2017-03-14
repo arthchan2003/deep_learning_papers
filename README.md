@@ -9,6 +9,7 @@ at git is a habit I learned from [Denny Britz](https://github.com/dennybritz/dee
 Highlight:
 - Simultaneous Detection and Segmentation [[arXiv](https://biomedicalcomputervision.uniandes.edu.co/images/webpage/publications/hagm_eccv2014.pdf)]
 - Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)]
+- FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1703.01161/)]
 
 Interesting:
 - Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis [[arXiv](https://arxiv.org/abs/1703.03702)]
