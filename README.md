@@ -17,4 +17,6 @@ Interesting:
 - Averaged-DQN: Variance Reduction and Stabilization for Deep Reinforcement Learning [[arXiv](https://arxiv.org/abs/1611.01929)]
 - Accelerated Gradient Temporal Difference Learning [[arXiv](https://arxiv.org/abs/1611.09328)]]
 - Fast LIDAR-based Road Detection Using Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1703.03613)]
+- Deep Robust Kalman Filter [arXiv](https://arxiv.org/abs/1703.02310)
+- Deep Learning applied to NLP [arXiv](https://arxiv.org/pdf/1703.03091)
 
