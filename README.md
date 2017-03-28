@@ -10,6 +10,8 @@ Highlight:
 - Simultaneous Detection and Segmentation [[arXiv](https://biomedicalcomputervision.uniandes.edu.co/images/webpage/publications/hagm_eccv2014.pdf)]
 - Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1703.01161/)]
+- Skip-Thought Vectors [[arXiv](https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf)]
+- Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1703.03864.pdf)]
 
 Interesting:
 - Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis [[arXiv](https://arxiv.org/abs/1703.03702)]
@@ -19,4 +21,5 @@ Interesting:
 - Fast LIDAR-based Road Detection Using Convolutional Neural Networks [[arXiv](https://arxiv.org/abs/1703.03613)]
 - Deep Robust Kalman Filter [arXiv](https://arxiv.org/abs/1703.02310)
 - Deep Learning applied to NLP [arXiv](https://arxiv.org/pdf/1703.03091)
+- Deep Reinforcement Learning: AN OVERVIEW https://arxiv.org/pdf/1701.07274.pdf
 
