@@ -5,13 +5,25 @@ This is mostly my reading dump. They are too deep to post at
 interesting enough for me to take some notes.  Putting all notes
 at git is a habit I learned from [Denny Britz](https://github.com/dennybritz/deeplearning-papernotes). 
 
+#### 2017-04
+Highlight:
+- A Neural Algorithm of Artistic Style
+- Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks, by Alex J. Champandard [[arXiv](https://arxiv.org/abs/1603.01768)]
+
+Interesting:
+- Perceptual Losses for Real-Time Style Transfer and Super-Resolution
+- Style Transfer via Texture Synthesis by Michael Elad and Peyman Milanfar [[IEEE](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7874180)]
+- Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis [[arXiv](https://arxiv.org/abs/1601.04589)]
+
+
 #### 2017-03
 Highlight:
 - Simultaneous Detection and Segmentation [[arXiv](https://biomedicalcomputervision.uniandes.edu.co/images/webpage/publications/hagm_eccv2014.pdf)]
 - Wasserstein GAN [[arXiv](https://arxiv.org/abs/1701.07875)]
 - FeUdal Networks for Hierarchical Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1703.01161/)]
 - Skip-Thought Vectors [[arXiv](https://papers.nips.cc/paper/5950-skip-thought-vectors.pdf)]
-- Evolution Strategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1703.03864.pdf)]
+- Evolution StMichael Elad and Peyman Milanfar
+rategies as a Scalable Alternative to Reinforcement Learning [[arXiv](https://arxiv.org/pdf/1703.03864.pdf)]
 
 Interesting:
 - Data-Driven Color Augmentation Techniques for Deep Skin Image Analysis [[arXiv](https://arxiv.org/abs/1703.03702)]
