@@ -7,13 +7,21 @@ at git is a habit I learned from [Denny Britz](https://github.com/dennybritz/dee
 
 #### 2017-04
 Highlight:
-- A Neural Algorithm of Artistic Style
+- A Neural Algorithm of Artistic Style [[arXiv](https://arxiv.org/pdf/1508.06576.pdf)]
 - Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks, by Alex J. Champandard [[arXiv](https://arxiv.org/abs/1603.01768)]
 
 Interesting:
 - Perceptual Losses for Real-Time Style Transfer and Super-Resolution
 - Style Transfer via Texture Synthesis by Michael Elad and Peyman Milanfar [[IEEE](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7874180)]
 - Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis [[arXiv](https://arxiv.org/abs/1601.04589)]
+- Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network [[arXiv](https://arxiv.org/pdf/1609.04802.pdf)]
+- https://github.com/alexjc/neural-enhance
+- https://en.wikipedia.org/wiki/Bicubic_interpolation
+- https://blog.openai.com/generative-models/
+- Improved Techniques for Training GANs [[arXiv](https://arxiv.org/pdf/1606.03498.pdf)]
+- Domain Randomization for Transferring Deep Neural Networks from Simulation to the Real World [[arXiv](https://arxiv.org/pdf/1703.06907.pdf)]
+- Pixel Recurrent Neural Networks [[arXiv](https://arxiv.org/abs/1601.06759)]
+- A guide to convolution arithmetic for deep learning [[arXiv](https://arxiv.org/pdf/1603.07285.pdf)]
 
 
 #### 2017-03
